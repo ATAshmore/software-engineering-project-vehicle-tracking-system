@@ -1,0 +1,3250 @@
+[
+  {
+    "vin": "SAJWA4EC5BM103106",
+    "status": "available",
+    "info": [
+      {
+        "model": "1500",
+        "make": "Chevrolet",
+        "mileage": 6465,
+        "year": 1994,
+        "color": "Violet"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Electric",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Universal Garage Door Opener",
+          "Overhead Airbags",
+          "Power Locks",
+          "Power Seat(s)"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Alloy Wheels",
+              "Turbo Charged Engine",
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Front Seat Heaters",
+      "Cross-Traffic Alert",
+      "Skylight(s)",
+      "Lane Departure Warning"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "AM/FM Stereo",
+      "Auxiliary Audio Input"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 172965
+  },
+  {
+    "vin": "4F2CY0C73AK949059",
+    "status": "available",
+    "info": [
+      {
+        "model": "Century",
+        "make": "Buick",
+        "mileage": 7799,
+        "year": 1987,
+        "color": "Crimson"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V8",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Power Locks",
+          "Power Windows",
+          "Power Seat(s)",
+          "Power Mirrors"
+        ],
+        "exterior": [
+          {
+            "paint": "Matte",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "Alloy Wheels",
+              "Daytime Running Lights",
+              "Turbo Charged Engine"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Memory Seats",
+      "Lane Departure Warning",
+      "Rear View Camera",
+      "Sunroof(s)"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "SiriusXM Trial Available",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "2-year Dent Protection",
+          "Unlimited Theft Protection",
+          "Unlimited Windshield Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 149805
+  },
+  {
+    "vin": "WAUFFAFM2BA842695",
+    "status": "available",
+    "info": [
+      {
+        "model": "F350",
+        "make": "Ford",
+        "mileage": 9913,
+        "year": 2006,
+        "color": "Blue"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V6",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Windows",
+          "Power Seat(s)",
+          "Power Locks"
+        ],
+        "exterior": [
+          {
+            "paint": "Lacquer",
+            "extra": [
+              "ABS Brakes",
+              "Power Hatch/Deck Lidis",
+              "Alloy Wheels"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Front Seat Heaters",
+      "Sunroof(s)",
+      "Memory Seats",
+      "Navigation System"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Auxiliary Audio Input",
+      "AM/FM Stereo"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Roadside Assistance",
+          "Unlimited Tire & Wheel Protection",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 184781
+  },
+  {
+    "vin": "3D73Y3CLXBG077475",
+    "status": "ordered",
+    "info": [
+      {
+        "model": "Crosstour",
+        "make": "Honda",
+        "mileage": 4886,
+        "year": 2012,
+        "color": "Teal"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Petrol",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Mirrors",
+          "Overhead Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Matte",
+            "extra": [
+              "Daytime Running Lights",
+              "Power Hatch/Deck Lidis",
+              "Turbo Charged Engine",
+              "Fog Lamps"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Air Conditioning",
+      "Bluetooth Technology"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "Meridian Audio",
+      "AM/FM Stereo"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "Unlimited Tire & Wheel Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 78700
+  },
+  {
+    "vin": "JTJHY7AX1E4512122",
+    "status": "ordered",
+    "info": [
+      {
+        "model": "S80",
+        "make": "Volvo",
+        "mileage": 5207,
+        "year": 2001,
+        "color": "Mauv"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Electric",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Mirrors",
+          "Power Locks",
+          "Side Airbags",
+          "Universal Garage Door Opener"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Daytime Running Lights",
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Cruise Control",
+      "Bluetooth Technology",
+      "Sunroof(s)",
+      "Adjustable seats",
+      "Leather seats"
+    ],
+    "audio": [
+      "AM/FM Stereo",
+      "Auxiliary Audio Input",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)",
+          "Unlimited Theft Protection",
+          "Unlimited Tire & Wheel Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 182934
+  },
+  {
+    "vin": "1D7RE5GK1BS514059",
+    "status": "ordered",
+    "info": [
+      {
+        "model": "A8",
+        "make": "Audi",
+        "mileage": 2670,
+        "year": 2006,
+        "color": "Teal"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "4 Cylinder",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Windows",
+          "Power Mirrors",
+          "Side Airbags",
+          "Power Seat(s)"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "ABS Brakes",
+              "Turbo Charged Engine"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Lane Departure Warning",
+      "Navigation System",
+      "Front Seat Heaters",
+      "Adjustable seats"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Meridian Audio",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "Unlimited Tire & Wheel Protection",
+          "Unlimited Windshield Protection"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 157727
+  },
+  {
+    "vin": "WDDHF5KB3FB718643",
+    "status": "ordered",
+    "info": [
+      {
+        "model": "Range Rover",
+        "make": "Land Rover",
+        "mileage": 7952,
+        "year": 2011,
+        "color": "Green"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "6 Cylinder",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Universal Garage Door Opener",
+          "Power Mirrors",
+          "Overhead Airbags",
+          "Power Seat(s)",
+          "Power Windows"
+        ],
+        "exterior": [
+          {
+            "paint": "Urethane",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "Alloy Wheels",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Cross-Traffic Alert",
+      "Sunroof(s)",
+      "Skylight(s)"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "Meridian Audio",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Roadside Assistance",
+          "90 day or 4000 mile limited warranty",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Luxurious",
+    "price": 190839
+  },
+  {
+    "vin": "2G61S5S32D9107584",
+    "status": "available",
+    "info": [
+      {
+        "model": "Trans Sport",
+        "make": "Pontiac",
+        "mileage": 4936,
+        "year": 1993,
+        "color": "Teal"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Gas",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Seat(s)",
+          "Power Locks",
+          "Power Windows",
+          "Overhead Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Matte",
+            "extra": [
+              "Fog Lamps",
+              "Power Hatch/Deck Lidis"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Skylight(s)",
+      "Cruise Control"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Auxiliary Audio Input",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Roadside Assistance",
+          "90 day or 4000 mile limited warranty"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 37995
+  },
+  {
+    "vin": "KL4CJHSB1FB225364",
+    "status": "ordered",
+    "info": [
+      {
+        "model": "Ram Van 1500",
+        "make": "Dodge",
+        "mileage": 2935,
+        "year": 1997,
+        "color": "Puce"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Hybrid",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Seat(s)",
+          "Power Windows"
+        ],
+        "exterior": [
+          {
+            "paint": "Matte",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Lane Departure Warning",
+      "Bluetooth Technology",
+      "Cruise Control"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "Auxiliary Audio Input",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Roadside Assistance",
+          "30 day money back guarantee (up to 1500 miles)",
+          "Unlimited Tire & Wheel Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 75620
+  },
+  {
+    "vin": "2G4GT5GX8E9985923",
+    "status": "available",
+    "info": [
+      {
+        "model": "Corvette",
+        "make": "Chevrolet",
+        "mileage": 2454,
+        "year": 1956,
+        "color": "Violet"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Hybrid",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Locks",
+          "Power Windows",
+          "Overhead Airbags",
+          "Power Mirrors",
+          "Side Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "Turbo Charged Engine",
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Leather seats",
+      "Adjustable seats",
+      "Cruise Control"
+    ],
+    "audio": [
+      "Meridian Audio",
+      "SiriusXM Trial Available",
+      "AM/FM Stereo"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Unlimited Windshield Protection",
+          "30 day money back guarantee (up to 1500 miles)"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 99672
+  },
+  {
+    "vin": "1G6DA5E57C0968569",
+    "status": "available",
+    "info": [
+      {
+        "model": "Echo",
+        "make": "Toyota",
+        "mileage": 7017,
+        "year": 2000,
+        "color": "Indigo"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Gas",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Universal Garage Door Opener",
+          "Overhead Airbags",
+          "Power Locks",
+          "Power Windows"
+        ],
+        "exterior": [
+          {
+            "paint": "Lacquer",
+            "extra": [
+              "Daytime Running Lights",
+              "Rear Defroster",
+              "Power Hatch/Deck Lidis"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Memory Seats",
+      "Leather seats",
+      "Keyless entry",
+      "Bluetooth Technology",
+      "Lane Departure Warning"
+    ],
+    "audio": [
+      "AM/FM Stereo",
+      "Meridian Audio",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "Unlimited Theft Protection",
+          "Roadside Assistance",
+          "90 day or 4000 mile limited warranty"
+        ]
+      }
+    ],
+    "package": "Luxurious",
+    "price": 181801
+  },
+  {
+    "vin": "1D7RB1CT0AS664971",
+    "status": "available",
+    "info": [
+      {
+        "model": "Impreza",
+        "make": "Subaru",
+        "mileage": 3337,
+        "year": 1999,
+        "color": "Violet"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Diesel",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Universal Garage Door Opener",
+          "Power Seat(s)"
+        ],
+        "exterior": [
+          {
+            "paint": "Acrylic",
+            "extra": [
+              "Daytime Running Lights",
+              "ABS Brakes",
+              "Alloy Wheels"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Bluetooth Technology",
+      "Leather seats"
+    ],
+    "audio": [
+      "AM/FM Stereo",
+      "Meridian Audio",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "90 day or 4000 mile limited warranty",
+          "Roadside Assistance",
+          "Unlimited Tire & Wheel Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 191478
+  },
+  {
+    "vin": "JTEBU4BF5BK939847",
+    "status": "available",
+    "info": [
+      {
+        "model": "Suburban 2500",
+        "make": "GMC",
+        "mileage": 8705,
+        "year": 1992,
+        "color": "Orange"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V6",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Overhead Airbags",
+          "Universal Garage Door Opener",
+          "Power Seat(s)",
+          "Power Locks"
+        ],
+        "exterior": [
+          {
+            "paint": "Matte",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "Turbo Charged Engine",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Navigation System",
+      "Memory Seats",
+      "Adjustable seats",
+      "Leather seats",
+      "Skylight(s)"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Meridian Audio",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Roadside Assistance",
+          "Unlimited Windshield Protection"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 21262
+  },
+  {
+    "vin": "WVWAB7AJ2DW767723",
+    "status": "available",
+    "info": [
+      {
+        "model": "Colorado",
+        "make": "Chevrolet",
+        "mileage": 312,
+        "year": 2009,
+        "color": "Green"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "4 Cylinder",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Power Mirrors",
+          "Overhead Airbags",
+          "Power Windows",
+          "Power Seat(s)"
+        ],
+        "exterior": [
+          {
+            "paint": "Acrylic",
+            "extra": [
+              "ABS Brakes",
+              "Rear Defroster",
+              "Alloy Wheels",
+              "Power Hatch/Deck Lidis"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Memory Seats",
+      "Sunroof(s)",
+      "Front Seat Heaters",
+      "Air Conditioning",
+      "Skylight(s)"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Satellite Radio Ready",
+      "Auxiliary Audio Input"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Roadside Assistance",
+          "2-year Dent Protection",
+          "90 day or 4000 mile limited warranty"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 133215
+  },
+  {
+    "vin": "JN8AF5MR0CT408949",
+    "status": "available",
+    "info": [
+      {
+        "model": "Savana 2500",
+        "make": "GMC",
+        "mileage": 6446,
+        "year": 2009,
+        "color": "Green"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Hybrid",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Overhead Airbags",
+          "Power Mirrors",
+          "Power Locks"
+        ],
+        "exterior": [
+          {
+            "paint": "Lacquer",
+            "extra": [
+              "Fog Lamps",
+              "Alloy Wheels"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Leather seats",
+      "Skylight(s)",
+      "Rear View Camera",
+      "Sunroof(s)"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "Meridian Audio",
+      "AM/FM Stereo"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "2-year Dent Protection",
+          "Unlimited Windshield Protection",
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 69003
+  },
+  {
+    "vin": "1GKS1EEF9ER296501",
+    "status": "available",
+    "info": [
+      {
+        "model": "VS Commodore",
+        "make": "Holden",
+        "mileage": 1189,
+        "year": 1995,
+        "color": "Turquoise"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Electric",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Power Seat(s)",
+          "Power Windows",
+          "Power Mirrors",
+          "Universal Garage Door Opener"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Alloy Wheels",
+              "Power Hatch/Deck Lidis",
+              "Fog Lamps"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Cruise Control",
+      "Front Seat Heaters",
+      "Cross-Traffic Alert",
+      "Navigation System",
+      "Adjustable seats"
+    ],
+    "audio": [
+      "AM/FM Stereo",
+      "Auxiliary Audio Input",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Unlimited Windshield Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 97612
+  },
+  {
+    "vin": "WBADT63401C441988",
+    "status": "available",
+    "info": [
+      {
+        "model": "Optima",
+        "make": "Kia",
+        "mileage": 4554,
+        "year": 2002,
+        "color": "Yellow"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Hybrid",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Overhead Airbags",
+          "Universal Garage Door Opener",
+          "Side Airbags",
+          "Power Mirrors",
+          "Power Windows"
+        ],
+        "exterior": [
+          {
+            "paint": "Acrylic",
+            "extra": [
+              "ABS Brakes",
+              "Power Hatch/Deck Lidis",
+              "Turbo Charged Engine",
+              "Fog Lamps"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Cross-Traffic Alert",
+      "Memory Seats",
+      "Cruise Control"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "Auxiliary Audio Input",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Unlimited Tire & Wheel Protection",
+          "30 day money back guarantee (up to 1500 miles)",
+          "Roadside Assistance"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 55901
+  },
+  {
+    "vin": "WAUBVBFB6BN367342",
+    "status": "available",
+    "info": [
+      {
+        "model": "Patriot",
+        "make": "Jeep",
+        "mileage": 5231,
+        "year": 2012,
+        "color": "Blue"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Diesel",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Universal Garage Door Opener",
+          "Overhead Airbags",
+          "Power Windows"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "Rear Defroster"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Cruise Control",
+      "Skylight(s)",
+      "Memory Seats",
+      "Lane Departure Warning",
+      "Automated Parking"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "AM/FM Stereo",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)",
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 127583
+  },
+  {
+    "vin": "WBAVC93597K976413",
+    "status": "available",
+    "info": [
+      {
+        "model": "Thunderbird",
+        "make": "Ford",
+        "mileage": 6342,
+        "year": 1972,
+        "color": "Aquamarine"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Gas",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Locks",
+          "Universal Garage Door Opener"
+        ],
+        "exterior": [
+          {
+            "paint": "Urethane",
+            "extra": [
+              "Rear Defroster",
+              "Daytime Running Lights",
+              "ABS Brakes"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Front Seat Heaters",
+      "Air Conditioning",
+      "Navigation System"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "Auxiliary Audio Input",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "2-year Dent Protection",
+          "Roadside Assistance",
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 15696
+  },
+  {
+    "vin": "KMHTC6AD8FU721141",
+    "status": "available",
+    "info": [
+      {
+        "model": "M-Class",
+        "make": "Mercedes-Benz",
+        "mileage": 5952,
+        "year": 2009,
+        "color": "Orange"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Petrol",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Power Seat(s)",
+          "Power Windows",
+          "Power Mirrors"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Turbo Charged Engine",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Lane Departure Warning",
+      "Bluetooth Technology"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "AM/FM Stereo",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Unlimited Windshield Protection",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 118667
+  },
+  {
+    "vin": "WBAPH7C55BA260153",
+    "status": "available",
+    "info": [
+      {
+        "model": "Yukon",
+        "make": "GMC",
+        "mileage": 2476,
+        "year": 2003,
+        "color": "Goldenrod"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Gas",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Windows",
+          "Power Mirrors",
+          "Overhead Airbags",
+          "Power Seat(s)",
+          "Power Locks"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "ABS Brakes",
+              "Fog Lamps",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Lane Departure Warning",
+      "Cross-Traffic Alert",
+      "Bluetooth Technology",
+      "Navigation System"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Auxiliary Audio Input",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Unlimited Tire & Wheel Protection",
+          "Roadside Assistance"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 35646
+  },
+  {
+    "vin": "WBAWV5C52AP993202",
+    "status": "available",
+    "info": [
+      {
+        "model": "164",
+        "make": "Alfa Romeo",
+        "mileage": 2054,
+        "year": 1992,
+        "color": "Indigo"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Electric",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Windows",
+          "Overhead Airbags",
+          "Power Mirrors",
+          "Universal Garage Door Opener",
+          "Side Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Lacquer",
+            "extra": [
+              "Daytime Running Lights",
+              "Turbo Charged Engine",
+              "Power Hatch/Deck Lidis",
+              "Fog Lamps"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Memory Seats",
+      "Adjustable seats"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "AM/FM Stereo",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "90 day or 4000 mile limited warranty"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 172583
+  },
+  {
+    "vin": "3VW4A7AT5DM943596",
+    "status": "available",
+    "info": [
+      {
+        "model": "Millenia",
+        "make": "Mazda",
+        "mileage": 4689,
+        "year": 1996,
+        "color": "Fuscia"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "6 Cylinder",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Locks",
+          "Power Seat(s)"
+        ],
+        "exterior": [
+          {
+            "paint": "Matte",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Air Conditioning",
+      "Automated Parking",
+      "Skylight(s)",
+      "Leather seats"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Satellite Radio Ready",
+      "Auxiliary Audio Input"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)",
+          "2-year Dent Protection",
+          "90 day or 4000 mile limited warranty"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 64063
+  },
+  {
+    "vin": "WBA3B5G56EN415773",
+    "status": "available",
+    "info": [
+      {
+        "model": "Esteem",
+        "make": "Suzuki",
+        "mileage": 8082,
+        "year": 1995,
+        "color": "Orange"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V12 Turbo",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Seat(s)",
+          "Side Airbags",
+          "Overhead Airbags",
+          "Power Mirrors",
+          "Universal Garage Door Opener"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "Turbo Charged Engine",
+              "Daytime Running Lights",
+              "ABS Brakes",
+              "Rear Defroster"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Memory Seats",
+      "Lane Departure Warning",
+      "Cruise Control",
+      "Sunroof(s)",
+      "Front Seat Heaters"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Meridian Audio",
+      "AM/FM Stereo"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)",
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 100522
+  },
+  {
+    "vin": "WAUJC58E55A440397",
+    "status": "available",
+    "info": [
+      {
+        "model": "E-Series",
+        "make": "Ford",
+        "mileage": 4934,
+        "year": 1989,
+        "color": "Puce"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Petrol",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Universal Garage Door Opener",
+          "Power Windows",
+          "Overhead Airbags",
+          "Power Mirrors"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Fog Lamps",
+              "ABS Brakes"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Cross-Traffic Alert",
+      "Lane Departure Warning",
+      "Bluetooth Technology",
+      "Keyless entry"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "AM/FM Stereo",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Unlimited Theft Protection",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 18209
+  },
+  {
+    "vin": "WAUDG94F65N307311",
+    "status": "available",
+    "info": [
+      {
+        "model": "Crown Victoria",
+        "make": "Ford",
+        "mileage": 3887,
+        "year": 1994,
+        "color": "Pink"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "6 Cylinder",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Seat(s)",
+          "Power Windows"
+        ],
+        "exterior": [
+          {
+            "paint": "Acrylic",
+            "extra": [
+              "Daytime Running Lights",
+              "Power Hatch/Deck Lidis"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Air Conditioning",
+      "Sunroof(s)"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "Meridian Audio",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "Roadside Assistance",
+          "Unlimited Tire & Wheel Protection"
+        ]
+      }
+    ],
+    "package": "Luxurious",
+    "price": 35398
+  },
+  {
+    "vin": "1G6AG5RX2E0297537",
+    "status": "available",
+    "info": [
+      {
+        "model": "Sportage",
+        "make": "Kia",
+        "mileage": 2089,
+        "year": 2002,
+        "color": "Mauv"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V8",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Universal Garage Door Opener",
+          "Power Mirrors",
+          "Power Seat(s)",
+          "Side Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Lacquer",
+            "extra": [
+              "Daytime Running Lights",
+              "Power Hatch/Deck Lidis",
+              "Alloy Wheels",
+              "ABS Brakes"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Bluetooth Technology",
+      "Lane Departure Warning"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "SiriusXM Trial Available",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "90 day or 4000 mile limited warranty",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 63014
+  },
+  {
+    "vin": "2G4GT5GX5E9734227",
+    "status": "available",
+    "info": [
+      {
+        "model": "Grand Marquis",
+        "make": "Mercury",
+        "mileage": 1503,
+        "year": 1984,
+        "color": "Purple"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Hybrid",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Universal Garage Door Opener",
+          "Side Airbags",
+          "Overhead Airbags",
+          "Power Seat(s)",
+          "Power Windows"
+        ],
+        "exterior": [
+          {
+            "paint": "Urethane",
+            "extra": [
+              "Fog Lamps",
+              "Alloy Wheels",
+              "Power Hatch/Deck Lidis"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Lane Departure Warning",
+      "Skylight(s)",
+      "Front Seat Heaters",
+      "Navigation System",
+      "Air Conditioning"
+    ],
+    "audio": [
+      "AM/FM Stereo",
+      "Satellite Radio Ready",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Unlimited Windshield Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 165472
+  },
+  {
+    "vin": "1G6KD57Y11U491598",
+    "status": "available",
+    "info": [
+      {
+        "model": "Leganza",
+        "make": "Daewoo",
+        "mileage": 6698,
+        "year": 2001,
+        "color": "Puce"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "4 Cylinder",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Locks",
+          "Power Mirrors",
+          "Universal Garage Door Opener"
+        ],
+        "exterior": [
+          {
+            "paint": "Urethane",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Sunroof(s)",
+      "Automated Parking",
+      "Front Seat Heaters",
+      "Bluetooth Technology",
+      "Leather seats"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "AM/FM Stereo",
+      "Auxiliary Audio Input"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Unlimited Tire & Wheel Protection",
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 197844
+  },
+  {
+    "vin": "SALAC2D4XAA939035",
+    "status": "available",
+    "info": [
+      {
+        "model": "Element",
+        "make": "Honda",
+        "mileage": 1836,
+        "year": 2006,
+        "color": "Violet"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Hybrid",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Locks",
+          "Universal Garage Door Opener"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Air Conditioning",
+      "Leather seats"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "AM/FM Stereo",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "Unlimited Theft Protection",
+          "Roadside Assistance",
+          "30 day money back guarantee (up to 1500 miles)"
+        ]
+      }
+    ],
+    "package": "Luxurious",
+    "price": 76873
+  },
+  {
+    "vin": "WBAPT73539C000296",
+    "status": "available",
+    "info": [
+      {
+        "model": "SL-Class",
+        "make": "Mercedes-Benz",
+        "mileage": 9819,
+        "year": 1997,
+        "color": "Teal"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V8",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Overhead Airbags",
+          "Power Locks"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes",
+              "Daytime Running Lights",
+              "Alloy Wheels"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Skylight(s)",
+      "Front Seat Heaters",
+      "Automated Parking",
+      "Cross-Traffic Alert",
+      "Lane Departure Warning"
+    ],
+    "audio": [
+      "Meridian Audio",
+      "Satellite Radio Ready",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "2-year Dent Protection",
+          "30 day money back guarantee (up to 1500 miles)",
+          "Roadside Assistance"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 165560
+  },
+  {
+    "vin": "1G6AB5SX3D0289437",
+    "status": "available",
+    "info": [
+      {
+        "model": "Cooper Clubman",
+        "make": "MINI",
+        "mileage": 4626,
+        "year": 2009,
+        "color": "Violet"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V12 Turbo",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Universal Garage Door Opener",
+          "Power Windows"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "Fog Lamps",
+              "Turbo Charged Engine"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Adjustable seats",
+      "Lane Departure Warning",
+      "Cruise Control",
+      "Navigation System"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "AM/FM Stereo",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Luxurious",
+    "price": 183430
+  },
+  {
+    "vin": "JHMZE2H54DS828503",
+    "status": "available",
+    "info": [
+      {
+        "model": "Tiburon",
+        "make": "Hyundai",
+        "mileage": 4824,
+        "year": 2001,
+        "color": "Violet"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "4 Cylinder",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Mirrors",
+          "Power Locks",
+          "Overhead Airbags",
+          "Power Windows"
+        ],
+        "exterior": [
+          {
+            "paint": "Acrylic",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes",
+              "Fog Lamps",
+              "Alloy Wheels"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Skylight(s)",
+      "Keyless entry",
+      "Lane Departure Warning",
+      "Memory Seats"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Auxiliary Audio Input",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "Roadside Assistance",
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 86164
+  },
+  {
+    "vin": "1G6DN57U760767512",
+    "status": "available",
+    "info": [
+      {
+        "model": "Commander",
+        "make": "Jeep",
+        "mileage": 2079,
+        "year": 2010,
+        "color": "Mauv"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V8",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Seat(s)",
+          "Power Locks"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "Turbo Charged Engine",
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes",
+              "Fog Lamps"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Navigation System",
+      "Adjustable seats",
+      "Cross-Traffic Alert",
+      "Air Conditioning",
+      "Lane Departure Warning"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "Meridian Audio",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Unlimited Tire & Wheel Protection",
+          "Unlimited Windshield Protection",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 100402
+  },
+  {
+    "vin": "1LNHL9DK8EG963586",
+    "status": "available",
+    "info": [
+      {
+        "model": "Camry",
+        "make": "Toyota",
+        "mileage": 1635,
+        "year": 2009,
+        "color": "Red"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Electric",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Overhead Airbags",
+          "Power Windows",
+          "Power Seat(s)"
+        ],
+        "exterior": [
+          {
+            "paint": "Acrylic",
+            "extra": [
+              "Turbo Charged Engine",
+              "Power Hatch/Deck Lidis",
+              "Fog Lamps"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering"
+    ],
+    "comfort": [
+      "Rear View Camera",
+      "Memory Seats",
+      "Automated Parking"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Auxiliary Audio Input",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "2-year Dent Protection",
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 26096
+  },
+  {
+    "vin": "3GYFNDEY8BS326605",
+    "status": "available",
+    "info": [
+      {
+        "model": "Continental GT",
+        "make": "Bentley",
+        "mileage": 7697,
+        "year": 2006,
+        "color": "Mauv"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V6",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Locks",
+          "Universal Garage Door Opener",
+          "Power Mirrors"
+        ],
+        "exterior": [
+          {
+            "paint": "Lacquer",
+            "extra": [
+              "Rear Defroster",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Cross-Traffic Alert",
+      "Adjustable seats"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Auxiliary Audio Input",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 98656
+  },
+  {
+    "vin": "JTMHY7AJXE4757015",
+    "status": "available",
+    "info": [
+      {
+        "model": "RX-7",
+        "make": "Mazda",
+        "mileage": 3518,
+        "year": 1988,
+        "color": "Red"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V12 Turbo",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Overhead Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "Turbo Charged Engine",
+              "ABS Brakes",
+              "Rear Defroster",
+              "Fog Lamps"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Adjustable seats",
+      "Memory Seats"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Satellite Radio Ready",
+      "AM/FM Stereo"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "90 day or 4000 mile limited warranty",
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 159604
+  },
+  {
+    "vin": "KMHDB8AE4AU919901",
+    "status": "available",
+    "info": [
+      {
+        "model": "RDX",
+        "make": "Acura",
+        "mileage": 6995,
+        "year": 2008,
+        "color": "Crimson"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Petrol",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Windows",
+          "Universal Garage Door Opener",
+          "Power Seat(s)",
+          "Side Airbags",
+          "Overhead Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "Power Hatch/Deck Lidis",
+              "ABS Brakes"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Leather seats",
+      "Cross-Traffic Alert"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "SiriusXM Trial Available",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "Unlimited Tire & Wheel Protection",
+          "90 day or 4000 mile limited warranty",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Luxurious",
+    "price": 5847
+  },
+  {
+    "vin": "5J8TB3H35FL689887",
+    "status": "available",
+    "info": [
+      {
+        "model": "Ram",
+        "make": "Dodge",
+        "mileage": 7432,
+        "year": 2008,
+        "color": "Puce"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V6",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Mirrors",
+          "Power Locks",
+          "Overhead Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Matte",
+            "extra": [
+              "Fog Lamps",
+              "ABS Brakes",
+              "Daytime Running Lights",
+              "Power Hatch/Deck Lidis"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Rear View Camera",
+      "Navigation System"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "AM/FM Stereo",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)",
+          "Unlimited Windshield Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 148258
+  },
+  {
+    "vin": "1GYFK63808R667595",
+    "status": "available",
+    "info": [
+      {
+        "model": "MX-5",
+        "make": "Mazda",
+        "mileage": 9435,
+        "year": 1992,
+        "color": "Red"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Petrol",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Universal Garage Door Opener",
+          "Power Windows",
+          "Power Seat(s)",
+          "Power Mirrors"
+        ],
+        "exterior": [
+          {
+            "paint": "Lacquer",
+            "extra": [
+              "Fog Lamps",
+              "Turbo Charged Engine"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Cruise Control",
+      "Memory Seats",
+      "Cross-Traffic Alert"
+    ],
+    "audio": [
+      "SiriusXM Trial Available",
+      "Auxiliary Audio Input",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "10-year Oil Change maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)"
+        ]
+      }
+    ],
+    "package": "Luxurious",
+    "price": 176840
+  },
+  {
+    "vin": "3GYFNFEY5BS383193",
+    "status": "available",
+    "info": [
+      {
+        "model": "Grand Caravan",
+        "make": "Dodge",
+        "mileage": 1280,
+        "year": 2003,
+        "color": "Maroon"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V6",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Windows",
+          "Power Locks",
+          "Power Seat(s)",
+          "Power Mirrors",
+          "Overhead Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Fog Lamps",
+              "ABS Brakes"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Keyless entry",
+      "Cross-Traffic Alert"
+    ],
+    "audio": [
+      "Meridian Audio",
+      "AM/FM Stereo",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Unlimited Theft Protection",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Economic",
+    "price": 46516
+  },
+  {
+    "vin": "1FTEW1E87AF729312",
+    "status": "available",
+    "info": [
+      {
+        "model": "Prizm",
+        "make": "Chevrolet",
+        "mileage": 1453,
+        "year": 1998,
+        "color": "Orange"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V6",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Locks",
+          "Side Airbags",
+          "Power Seat(s)",
+          "Overhead Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Matte",
+            "extra": [
+              "ABS Brakes",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Memory Seats",
+      "Sunroof(s)",
+      "Air Conditioning",
+      "Navigation System",
+      "Cruise Control"
+    ],
+    "audio": [
+      "AM/FM Stereo",
+      "Auxiliary Audio Input",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 7910
+  },
+  {
+    "vin": "1ZVBP8JS2C5771504",
+    "status": "available",
+    "info": [
+      {
+        "model": "Rally Wagon 1500",
+        "make": "GMC",
+        "mileage": 6638,
+        "year": 1993,
+        "color": "Blue"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Gas",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Power Windows",
+          "Power Locks",
+          "Universal Garage Door Opener",
+          "Power Mirrors"
+        ],
+        "exterior": [
+          {
+            "paint": "Urethane",
+            "extra": [
+              "Turbo Charged Engine",
+              "Power Hatch/Deck Lidis",
+              "Fog Lamps"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Bluetooth Technology",
+      "Leather seats",
+      "Sunroof(s)",
+      "Memory Seats"
+    ],
+    "audio": [
+      "Meridian Audio",
+      "Auxiliary Audio Input",
+      "AM/FM Stereo"
+    ],
+    "protection": [
+      {
+        "maintenance": "every 10.000 mile maintenance",
+        "warranty": [
+          "Unlimited Theft Protection",
+          "30 day money back guarantee (up to 1500 miles)",
+          "Roadside Assistance"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 27861
+  },
+  {
+    "vin": "WAUFEBFM3BA599973",
+    "status": "available",
+    "info": [
+      {
+        "model": "Previa",
+        "make": "Toyota",
+        "mileage": 6232,
+        "year": 1995,
+        "color": "Maroon"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V12 Turbo",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Locks",
+          "Power Seat(s)"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Alloy Wheels",
+              "ABS Brakes",
+              "Daytime Running Lights"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Lane Departure Warning",
+      "Cruise Control",
+      "Keyless entry",
+      "Leather seats"
+    ],
+    "audio": [
+      "Meridian Audio",
+      "AM/FM Stereo",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Unlimited Windshield Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 56935
+  },
+  {
+    "vin": "2T1BURHE0EC191028",
+    "status": "available",
+    "info": [
+      {
+        "model": "207",
+        "make": "Peugeot",
+        "mileage": 5140,
+        "year": 2007,
+        "color": "Purple"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Gas",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Overhead Airbags",
+          "Universal Garage Door Opener",
+          "Power Mirrors",
+          "Power Locks",
+          "Power Seat(s)"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "ABS Brakes",
+              "Rear Defroster"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Adjustable seats",
+      "Rear View Camera"
+    ],
+    "audio": [
+      "Meridian Audio",
+      "AM/FM Stereo",
+      "SiriusXM Trial Available"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Unlimited Windshield Protection",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 135478
+  },
+  {
+    "vin": "WAU2GAFC9FN639840",
+    "status": "available",
+    "info": [
+      {
+        "model": "Legacy",
+        "make": "Subaru",
+        "mileage": 8783,
+        "year": 2005,
+        "color": "Puce"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Gas",
+        "transmission": "Manual"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Seat(s)",
+          "Power Windows",
+          "Power Locks",
+          "Power Mirrors"
+        ],
+        "exterior": [
+          {
+            "paint": "Metallic",
+            "extra": [
+              "Daytime Running Lights",
+              "ABS Brakes",
+              "Fog Lamps",
+              "Turbo Charged Engine"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Sunroof(s)",
+      "Adjustable seats",
+      "Front Seat Heaters",
+      "Air Conditioning"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "Auxiliary Audio Input",
+      "Meridian Audio"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Unlimited Windshield Protection",
+          "Unlimited Theft Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 86802
+  },
+  {
+    "vin": "JN1AV7AP0FM892507",
+    "status": "available",
+    "info": [
+      {
+        "model": "Borrego",
+        "make": "Kia",
+        "mileage": 7808,
+        "year": 2009,
+        "color": "Mauv"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Petrol",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Overhead Airbags",
+          "Power Mirrors",
+          "Power Seat(s)"
+        ],
+        "exterior": [
+          {
+            "paint": "Pearlescent",
+            "extra": [
+              "Fog Lamps",
+              "Alloy Wheels",
+              "ABS Brakes",
+              "Power Hatch/Deck Lidis"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Air Conditioning",
+      "Automated Parking",
+      "Leather seats",
+      "Adjustable seats"
+    ],
+    "audio": [
+      "AM/FM Stereo",
+      "Meridian Audio",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Roadside Assistance",
+          "Unlimited Tire & Wheel Protection",
+          "2-year Dent Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 64791
+  },
+  {
+    "vin": "1N4AA5AP3BC333763",
+    "status": "available",
+    "info": [
+      {
+        "model": "Ram Van B250",
+        "make": "Dodge",
+        "mileage": 5892,
+        "year": 1992,
+        "color": "Purple"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "V6",
+        "transmission": "Automatic"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Overhead Airbags",
+          "Universal Garage Door Opener"
+        ],
+        "exterior": [
+          {
+            "paint": "Urethane",
+            "extra": [
+              "ABS Brakes",
+              "Rear Defroster",
+              "Daytime Running Lights",
+              "Power Hatch/Deck Lidis"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Skylight(s)",
+      "Lane Departure Warning",
+      "Bluetooth Technology",
+      "Air Conditioning",
+      "Cross-Traffic Alert"
+    ],
+    "audio": [
+      "Satellite Radio Ready",
+      "AM/FM Stereo",
+      "Auxiliary Audio Input"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)",
+          "Unlimited Windshield Protection",
+          "Unlimited Tire & Wheel Protection"
+        ]
+      }
+    ],
+    "package": "Sports",
+    "price": 62573
+  },
+  {
+    "vin": "WBAAV53401J273479",
+    "status": "available",
+    "info": [
+      {
+        "model": "XC90",
+        "make": "Volvo",
+        "mileage": 6699,
+        "year": 2003,
+        "color": "Goldenrod"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "Hybrid",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Power Locks",
+          "Overhead Airbags",
+          "Universal Garage Door Opener",
+          "Side Airbags"
+        ],
+        "exterior": [
+          {
+            "paint": "Urethane",
+            "extra": [
+              "Fog Lamps",
+              "Turbo Charged Engine",
+              "Alloy Wheels"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Power Steering",
+      "Anti-lock brakes"
+    ],
+    "comfort": [
+      "Leather seats",
+      "Air Conditioning"
+    ],
+    "audio": [
+      "Auxiliary Audio Input",
+      "SiriusXM Trial Available",
+      "AM/FM Stereo"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "30 day money back guarantee (up to 1500 miles)",
+          "2-year Dent Protection",
+          "Unlimited Tire & Wheel Protection"
+        ]
+      }
+    ],
+    "package": "Premium",
+    "price": 64008
+  },
+  {
+    "vin": "WAUMGBFL3DA634491",
+    "status": "ordered",
+    "info": [
+      {
+        "model": "Rogue",
+        "make": "Nissan",
+        "mileage": 9817,
+        "year": 2010,
+        "color": "Red"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "4 Cylinder",
+        "transmission": "CVT"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "Side Airbags",
+          "Power Windows",
+          "Overhead Airbags",
+          "Power Locks"
+        ],
+        "exterior": [
+          {
+            "paint": "Matte",
+            "extra": [
+              "Turbo Charged Engine",
+              "Alloy Wheels",
+              "ABS Brakes",
+              "Fog Lamps"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "Anti-lock brakes",
+      "Power Steering"
+    ],
+    "comfort": [
+      "Sunroof(s)",
+      "Cruise Control"
+    ],
+    "audio": [
+      "AM/FM Stereo",
+      "Meridian Audio",
+      "Satellite Radio Ready"
+    ],
+    "protection": [
+      {
+        "maintenance": "3-year/36.000-mile scheduled maintenance",
+        "warranty": [
+          "Unlimited Tire & Wheel Protection",
+          "Roadside Assistance"
+        ]
+      }
+    ],
+    "package": "Luxurious",
+    "price": 197771
+  },
+  {
+    "vin": "jhkbewgu3",
+    "status": "ordered",
+    "info": [
+      {
+        "model": "Z",
+        "make": "Tesla",
+        "mileage": 1023,
+        "year": 2012,
+        "color": "red"
+      }
+    ],
+    "performance": [
+      {
+        "engine": "4-cylinder",
+        "transmission": "Hybrid"
+      }
+    ],
+    "design": [
+      {
+        "interior": [
+          "nice"
+        ],
+        "exterior": [
+          {
+            "paint": "translucent",
+            "extra": [
+              "cheap"
+            ]
+          }
+        ]
+      }
+    ],
+    "handling": [
+      "nice"
+    ],
+    "comfort": [
+      "no comfort"
+    ],
+    "audio": [
+      "bluetooth"
+    ],
+    "protection": [
+      {
+        "maintenance": "no maint",
+        "warranty": [
+          "no warr"
+        ]
+      }
+    ],
+    "package": "sports",
+    "price": 6789837298341
+  }
+]

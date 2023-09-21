@@ -1,0 +1,108 @@
+
+
+
+def CarSearch():
+    # Get search criteria from user
+    model, make, year = input("Enter model, make and year separated by commas: ").split(',')
+    year = year.strip()
+
+    # Validate year is numeric
+    if not year.isnumeric():
+        print("Invalid: Year must be a number!")
+        return
+
+    # Search inventory for car
+    car = interface.searchInventory(model.strip(), make.strip(), int(year))
+    
+    # Check if car was found
+    if not car:
+        print(f"No match found for {year} {make} {model}.")
+        return
+    
+    # Display car details
+    print(f"Car details:\n{car.getDetails()}")
+    return car
+
+
+
+
+def RemoveCar():
+    if interface.GetInventory() is empty:
+        PrintFormat("Invalid", "No cars in inventory")
+        return
+
+    car_to_delete = GetObject(interface.GetInventory())
+
+    confirm_msg = f"Are you sure you want to delete {car_to_delete}"
+    if interface.isCarOrdered(car_to_delete):
+        confirm_msg += f" {bcolors.BOLD}it has been ordered{bcolors.ENDC}"
+
+    if not ConfirmSelection(msg=confirm_msg):
+        return
+
+    rem = interface.RemoveInventory(car_to_delete)
+    if rem:
+        PrintFormat("Success", "Removed car successfully")
+    else:
+        PrintFormat("Invalid", "Car not found")
+
+
+
+
+function AddCar():
+    vin = getUserInput("Enter new car's VIN: ")
+    make_model_year = None
+    while True:
+        make_model_year = getUserInput("Enter make, model, year (Separated by commas): ").split(",")
+        if length(make_model_year) != 3 or not isNumeric(make_model_year[2]):
+            continue
+        break
+    mileage_color = None
+    while True:
+        mileage_color = getUserInput("Enter mileage, color (Separated by commas): ").split(",")
+        if length(mileage_color) != 2 or not isNumeric(mileage_color[0]) or not isAlpha(mileage_color[1]):
+            continue
+        break
+    price = getNumericInput("Enter price: ")
+    engine_transmission = None
+    while True:
+        engine_transmission = getUserInput("Enter engine, transmission (Separated by commas): ").split(",")
+        if length(engine_transmission) != 2:
+            continue
+        break
+    interior_external_design = None
+    while True:
+        interior_external_design = getUserInput("Enter interior, external design (Separated by commas): ").split(",")
+        if length(interior_external_design) != 2:
+            continue
+        break
+    paint = getUserInput("Enter paint: ")
+    handling = [getUserInput("Enter handling: ")]
+    audio = [getUserInput("Enter audio: ")]
+    comfort = [getUserInput("Enter comfort features: ")]
+    package = getUserInput("Enter package: ")
+    warranty_maintenance = None
+    while True:
+        warranty_maintenance = getUserInput("Enter warranty, maintenance (Separated by commas): ").split(",")
+        if length(warranty_maintenance) != 2:
+            continue
+        break
+    info = {"model": make_model_year[1],
+            "make": make_model_year[0],
+            "mileage": int(mileage_color[0]),
+            "year": int(make_model_year[2]),
+            "color": mileage_color[1]}
+    performance = {"engine": engine_transmission[0],
+                    "transmission": engine_transmission[1]}
+    design = {"interior": [interior_external_design[0]],
+              "exterior": [{"paint": paint,"extra": [interior_external_design[1]]}]}
+    protection = {"maintenance": warranty_maintenance[1], "warranty": [warranty_maintenance[0]]}
+    status = getValidInput(["ordered", "available", "backorder", "delivered"], "Enter status: ")
+    if not status:
+        return
+    add = addInventory(vin, info=info, performance=performance,comfort=comfort, design=design, 
+                    protection=protection, price=price, handling=handling, package=package, entertainment=audio, status=status)    
+    if add:
+        PrintFormat("Success", "Car successfully added")
+    else:
+        PrintFormat("Invalid", "Car already exists")

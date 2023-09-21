@@ -1,0 +1,68 @@
+[
+  {
+    "email": "aiannetti0@umich.edu",
+    "name": [
+      {
+        "first": "Nathanael",
+        "last": "Abad"
+      }
+    ],
+    "card": "201633084553549",
+    "address": "7 Texas Terrace"
+  },
+  {
+    "email": "wohalloran1@epa.gov",
+    "name": [
+      {
+        "first": "Britt",
+        "last": "Eary"
+      }
+    ],
+    "card": "3552850068491558",
+    "address": "296 Talmadge Point"
+  },
+  {
+    "email": "isibbit2@bandcamp.com",
+    "name": [
+      {
+        "first": "Lay",
+        "last": "Collings"
+      }
+    ],
+    "card": "3578843158428515",
+    "address": "0714 Merrick Court"
+  },
+  {
+    "email": "adeeth3@friendfeed.com",
+    "name": [
+      {
+        "first": "Hazel",
+        "last": "Pavett"
+      }
+    ],
+    "card": "4405115264087957",
+    "address": "0 Arkansas Center"
+  },
+  {
+    "email": "dmacgeffen4@wix.com",
+    "name": [
+      {
+        "first": "Lazaro",
+        "last": "Pifford"
+      }
+    ],
+    "card": "3531439034439598",
+    "address": "1351 Bultman Trail"
+  },
+  {
+    "email": "emanuel@gmail.com",
+    "name": [
+      {
+        "first": "Emanuel",
+        "last": "Aseghehey"
+      }
+    ],
+    "card": "1234567891234567",
+    "address": "Usf"
+  }
+]

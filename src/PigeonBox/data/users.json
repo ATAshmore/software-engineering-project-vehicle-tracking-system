@@ -1,0 +1,278 @@
+[
+  {
+    "username": "test",
+    "password": "test",
+    "name": [
+      {
+        "firstName": "Kate",
+        "lastName": "Anderson"
+      }
+    ],
+    "dateJoined": "2022-09-07",
+    "type": "Admin"
+  },
+  {
+    "username": "bpallin7",
+    "password": "x2TmQzNy",
+    "name": [
+      {
+        "firstName": "Lelia",
+        "lastName": "Bemlott"
+      }
+    ],
+    "dateJoined": "2022-01-14",
+    "type": "Admin"
+  },
+  {
+    "username": "mouverj",
+    "password": "J7mYg2mTTmN",
+    "name": [
+      {
+        "firstName": "Christie",
+        "lastName": "Game"
+      }
+    ],
+    "dateJoined": "2022-04-29",
+    "type": "Admin"
+  },
+  {
+    "username": "randomEmployee",
+    "password": "admin",
+    "name": [
+      {
+        "firstName": "Lionel",
+        "lastName": "Messi"
+      }
+    ],
+    "dateJoined": "2023-04-07",
+    "type": "Admin"
+  },
+  {
+    "username": "gkubach0",
+    "password": "2nBztx3qzXV",
+    "name": [
+      {
+        "firstName": "Jemie",
+        "lastName": "Hellard"
+      }
+    ],
+    "dateJoined": "2022-09-07",
+    "type": "Employee"
+  },
+  {
+    "username": "crapinett1",
+    "password": "KcZy6yQfn",
+    "name": [
+      {
+        "firstName": "Jonie",
+        "lastName": "Presman"
+      }
+    ],
+    "dateJoined": "2023-02-17",
+    "type": "Employee"
+  },
+  {
+    "username": "nletson2",
+    "password": "y64SzdNK9eP",
+    "name": [
+      {
+        "firstName": "Tallulah",
+        "lastName": "Readshaw"
+      }
+    ],
+    "dateJoined": "2022-03-07",
+    "type": "Employee"
+  },
+  {
+    "username": "jpiris3",
+    "password": "tSdmpQCfTH",
+    "name": [
+      {
+        "firstName": "Romeo",
+        "lastName": "Peddar"
+      }
+    ],
+    "dateJoined": "2023-01-09",
+    "type": "Employee"
+  },
+  {
+    "username": "ddouthwaite4",
+    "password": "UdduETc09xd",
+    "name": [
+      {
+        "firstName": "Gussie",
+        "lastName": "Fender"
+      }
+    ],
+    "dateJoined": "2023-02-13",
+    "type": "Employee"
+  },
+  {
+    "username": "fdoone5",
+    "password": "GuFc0raI",
+    "name": [
+      {
+        "firstName": "Blane",
+        "lastName": "Bernollet"
+      }
+    ],
+    "dateJoined": "2022-07-01",
+    "type": "Employee"
+  },
+  {
+    "username": "ashowen6",
+    "password": "37NuMnIiG47",
+    "name": [
+      {
+        "firstName": "Darcy",
+        "lastName": "Inglish"
+      }
+    ],
+    "dateJoined": "2022-02-03",
+    "type": "Employee"
+  },
+  {
+    "username": "akemitt8",
+    "password": "Y0Cqi3JBO",
+    "name": [
+      {
+        "firstName": "Dewey",
+        "lastName": "Nollet"
+      }
+    ],
+    "dateJoined": "2022-08-17",
+    "type": "Employee"
+  },
+  {
+    "username": "lpoker9",
+    "password": "bpDUJM",
+    "name": [
+      {
+        "firstName": "Paola",
+        "lastName": "Prium"
+      }
+    ],
+    "dateJoined": "2022-04-15",
+    "type": "Employee"
+  },
+  {
+    "username": "ktolera",
+    "password": "LroGcMIz",
+    "name": [
+      {
+        "firstName": "Maud",
+        "lastName": "Rockey"
+      }
+    ],
+    "dateJoined": "2022-09-05",
+    "type": "Employee"
+  },
+  {
+    "username": "jmcgrealb",
+    "password": "X1P4PmW3Fed",
+    "name": [
+      {
+        "firstName": "Lovell",
+        "lastName": "Callaway"
+      }
+    ],
+    "dateJoined": "2022-05-15",
+    "type": "Employee"
+  },
+  {
+    "username": "bhenriquesc",
+    "password": "V7JobMQ5",
+    "name": [
+      {
+        "firstName": "Nadiya",
+        "lastName": "Killik"
+      }
+    ],
+    "dateJoined": "2023-02-05",
+    "type": "Employee"
+  },
+  {
+    "username": "cpinniond",
+    "password": "H4HxRIT",
+    "name": [
+      {
+        "firstName": "Guillermo",
+        "lastName": "Fowlds"
+      }
+    ],
+    "dateJoined": "2022-07-20",
+    "type": "Employee"
+  },
+  {
+    "username": "bscadinge",
+    "password": "rgcjTI",
+    "name": [
+      {
+        "firstName": "Quill",
+        "lastName": "Undy"
+      }
+    ],
+    "dateJoined": "2022-05-12",
+    "type": "Employee"
+  },
+  {
+    "username": "lbleakmanf",
+    "password": "pfELnW",
+    "name": [
+      {
+        "firstName": "Winnie",
+        "lastName": "Copsey"
+      }
+    ],
+    "dateJoined": "2022-10-20",
+    "type": "Employee"
+  },
+  {
+    "username": "lfearfullg",
+    "password": "zH3mRZ",
+    "name": [
+      {
+        "firstName": "Yank",
+        "lastName": "Clementucci"
+      }
+    ],
+    "dateJoined": "2022-06-07",
+    "type": "Employee"
+  },
+  {
+    "username": "cgalbraithh",
+    "password": "yrjUBld",
+    "name": [
+      {
+        "firstName": "Lemmy",
+        "lastName": "Froude"
+      }
+    ],
+    "dateJoined": "2023-02-06",
+    "type": "Employee"
+  },
+  {
+    "username": "wmcdooli",
+    "password": "ldSWMo3O",
+    "name": [
+      {
+        "firstName": "Albrecht",
+        "lastName": "Langabeer"
+      }
+    ],
+    "dateJoined": "2022-01-10",
+    "type": "Employee"
+  },
+  {
+    "username": "packxs",
+    "password": "1234567",
+    "name": [
+      {
+        "firstName": "Emanuel",
+        "lastName": "Packas"
+      }
+    ],
+    "dateJoined": "2023-04-07",
+    "type": "Employee"
+  }
+]
